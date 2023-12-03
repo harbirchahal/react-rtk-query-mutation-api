@@ -1,2 +1,3 @@
-# react-rtk-query-mutation-api
+# React RTK Query Mutation API
+
 Simulate a backend REST API with json-server
