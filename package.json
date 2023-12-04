@@ -1,9 +1,9 @@
 {
   "name": "react-rtk-query-mutation-api",
   "version": "0.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "json-server": "^0.17.4"
